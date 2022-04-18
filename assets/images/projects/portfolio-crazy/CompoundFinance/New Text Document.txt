@@ -1,0 +1,8 @@
+https://app.compound.finance/
+
+doc : https://compound.finance/docs
+
+github : https://github.com/compound-finance
+
+- wrote ERC20 smart contract for the cToken
+- contributed to compound API creation (Proposal, ProposalVoteReceipt, CrowdProposal, CompAccount, ...)

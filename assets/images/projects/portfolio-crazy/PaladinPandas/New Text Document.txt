@@ -1,0 +1,9 @@
+https://www.paladinpandas.com/
+
+https://opensea.io/collection/paladin-pandas
+
+https://paladin-pandas.gitbook.io/paladin-pandas/
+
+- wrote NFT smart contract (ERC-1155)
+- wrote other smart contracts for their game - Space Expedition
+- web3 integration using ethers.js

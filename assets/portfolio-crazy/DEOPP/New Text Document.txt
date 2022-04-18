@@ -1,0 +1,10 @@
+Project description
+Tron Based Dapp
+
+website : https://thedeopp.com
+smart contract : https://tronscan.org/#/contract/TBBZhFnKY8JJCfM4xVMMVfeDnyXcE657tu/code
+video : https://www.youtube.com/hashtag/thedeopp
+
+
+Back-End Development
+July 2021 - September 2021

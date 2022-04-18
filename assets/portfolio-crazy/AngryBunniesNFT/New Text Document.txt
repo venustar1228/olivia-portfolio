@@ -1,0 +1,5 @@
+https://angrybunniesnft.com/
+
+Collection of 7777 unique rarity NFTs - 0.06 ETH each
+- wrote smart contract for NFT (ERC-721)
+- web3 integration with the smart contract & front-end

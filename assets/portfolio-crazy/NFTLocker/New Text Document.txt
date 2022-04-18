@@ -1,0 +1,11 @@
+https://nftlocker.io/
+
+NFT locking system where users can own their NFTs showing famous top-athletes on Ethereum & Polygon
+It's more likely to be an NFT marketplace.
+
+- wrote smart contracts for NFT minting & locking
+- wrote React code for the front-end
+
+POLYGON CONTRACT: 0xABF9813058FdD8867CF3179823B1E2480867E981
+POLYGON CONTRACT 2: 0x2D70256D864b3153a309a1f6a9ECeb1c1FAc7aCA
+ETHEREUM CONTRACT: 0x6Ac128a9062041B3D59D2EC83A7CaF2FDf71D001

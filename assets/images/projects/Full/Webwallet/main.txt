@@ -1,0 +1,12 @@
+You will get a crypto web wallet of your own Altcoin(Forked coin)
+
+
+A Crypto wallet of your own coin is always a issue in crypto industry, the project solves this problem for Coin admins. Your coin can easily be stored managed in this very new web wallet. The web wallet provides you the following major feature required in a web-wallet:
+
+- Multi wallet option
+- 2FA Authentication
+- Fast and quick deposit detection
+- Customisable withdraw fee from admin panel
+- Well curated admin panel
+
+The android and IOS app of the wallet is also made available as an add-on

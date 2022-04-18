@@ -1,0 +1,5 @@
+title: You will get a Olympus/wonderland (decentralized reserve currency protocol) fork
+
+description: 
+What is Olympus/Wonderland?
+Olympus /Wonderland is the first decentralized reserve currency protocol available on the EVM Networks based on a new token. Each new token is backed by a basket of assets (e.g., XYZ-ETH LP Tokens, XYZ-AVAX LP Tokens etc etc) in the Olympus /Wonderland treasury, giving it an intrinsic value that it cannot fall below. Olympus /Wonderland also introduces economic and game-theoretic dynamics into the market through staking and bonding/minting.

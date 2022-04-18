@@ -1,0 +1,11 @@
+NFT minting website
+NFTs are dynamically generated during the minting process based on traits
+
+- wrote the smart contract using Solidity
+- developed minting website using React
+- integrated smart contract & wallet into front-end using Web3.js
+
+https://www.smolrunners.com
+https://opensea.io/collection/the-smol-runners
+
+1/24/2022 - 2/3/2022

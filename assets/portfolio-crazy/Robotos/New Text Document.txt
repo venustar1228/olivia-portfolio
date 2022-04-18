@@ -1,0 +1,8 @@
+https://www.robotos.art/
+
+https://opensea.io/collection/robotos-official
+
+
+NFT project on Ethereum (cooperated with a front-end dev)
+- generated arts from 170+ unique traits (using Node.js)
+- created minting smart contract  (ERC-721)

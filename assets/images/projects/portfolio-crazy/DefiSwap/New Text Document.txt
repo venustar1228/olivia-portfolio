@@ -1,0 +1,14 @@
+https://www.defiswap.app/
+
+- forked PancakeSwap
+- added custom features like Locking, Staking
+- added a new features that lets users create their own token for various purposes
+
+runs on BSC
+
+DEFISwap Token : 0x6f4217e1eF964D24e2F700E86Cb28ec81cAD5205
+DEFICHIP       : 0x058af39013Ef4F51A6e8B1bD5951d3E0757dBC47
+MasterAccount  : 0xA32d14D42bbA9EEb5987500CE1C284971f9eaDd8
+
+Lottery        : 0xE06196aA5e93f8F08C9Ed52B164B410a38ECF1ae
+Prediction     : 0x1f07f910484Fe7E9DB990514944A66270B20b922

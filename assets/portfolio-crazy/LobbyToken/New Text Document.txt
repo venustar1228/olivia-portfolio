@@ -1,0 +1,6 @@
+http://lobbytoken.io/
+
+DAO ecosystem on Ethereum where $LBY holders can vote on proposals
+
+- wrote smart contract for the token ($LBY governance token) using Solidity
+- created a DAO for a voting system using ThirdWeb.js

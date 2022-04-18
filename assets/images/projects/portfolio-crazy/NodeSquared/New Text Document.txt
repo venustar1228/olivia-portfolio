@@ -1,0 +1,6 @@
+https://www.nodesquared.com/
+
+I handled the blockchain part on this website
+- Wrote React.js code for the front-end
+- Deployed $N2 token on ETH & AVA
+- Created a bridge between ETH & AVA (bridge contracts, back-end script)
